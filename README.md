@@ -1,5 +1,5 @@
 # Methods_Python_Basics
-Basic Methods for Python - Beginners 
+Basic Functions in Python - Beginners
 append
 clear
 copy
